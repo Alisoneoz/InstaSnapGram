@@ -13,6 +13,7 @@
     "init": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.18.0",
     "tailwindcss": "^3.3.5"
   },
   "devDependencies": {
@@ -26,6 +27,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "postcss": "^8.4.31",
+    "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
   }
